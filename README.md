@@ -8,3 +8,4 @@
 ## How to run
 - `pnpm install`
 - `pnpm dev`
+- Node v20.15.0, pnpm v9.12.2
